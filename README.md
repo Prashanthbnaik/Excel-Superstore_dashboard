@@ -24,4 +24,4 @@ This project showcases a clean and interactive Excel dashboard built for deep-di
 - This README file
 
 ## Connect with Me:
-- [LinkedIn](https://www.linkedin.com/prashanthnaik7)
+- [LinkedIn](https://www.linkedin.com/in/prashanthnaik7)
